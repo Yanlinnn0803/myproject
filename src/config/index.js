@@ -1,0 +1,1 @@
+export const API_URL = 'https://gt-db-b8189.web.app/IndexLogin/';
